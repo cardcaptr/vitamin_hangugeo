@@ -5,8 +5,7 @@ Created on Tue Jun  9 03:07:35 2020
 
 "This is an edited version of the code at the following url: "
 "https://www.geeksforgeeks.org/downloading-files-web-using-python/"
-"The following will install the Vitamin Book 1 mp3 files
- in the same directory as this .py file"
+"The following will install the Vitamin Korean 1's mp3 files in the same directory as this .py file"
 """
 #make sure these packages are installed
 import requests 
